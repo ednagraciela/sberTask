@@ -7,7 +7,6 @@
 
 ```bash
 git clone https://github.com/ednagraciela/sberTask.git
-cd t
 
 ## Запуск с Docker
 
