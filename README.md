@@ -1,19 +1,15 @@
 # sberTask
 
-# Todo List API
-
-Простое API для управления задачами на день с использованием Golang и PostgreSQL.
-
+Разработать простое api для приложение todo list для создание задач на день
 
 ## Установка
 
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/todo-api.git
-cd todo-api
+git clone https://github.com/ednagraciela/sberTask.git
+cd t
 
+## Запуск с Docker
 
-
-```bash
 docker-compose up --build
