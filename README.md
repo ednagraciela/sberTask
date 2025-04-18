@@ -2,9 +2,8 @@
 
 Разработать простое api для приложение todo list для создание задач на день
 
-## Установка
 
-1. Клонируйте репозиторий:
+ Клонируйте репозиторий:
 
 ```bash
 git clone https://github.com/ednagraciela/sberTask.git
